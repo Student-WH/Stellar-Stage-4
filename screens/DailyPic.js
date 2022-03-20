@@ -12,7 +12,7 @@ export default class DailyPicScreen extends Component {
     }
 
     componentDidMount() {
-        this.getAPOD()
+        
     }
 
     getAPOD = () => {
